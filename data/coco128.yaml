@@ -1,0 +1,65 @@
+train: /content/Data_detect/train  
+val:  /content/Data_detect/val
+test: /content/Data_detect/test
+
+# Classes
+names:
+  0: 3mien
+  1: 7up
+  2: 247
+  3: Ajinomoto
+  4: Aquafina
+  5: CF pho
+  6: CF Viet
+  7: Chinsu
+  8: Chocopie
+  9: Chocopie_cacao
+  10: clear
+  11: CloseUp Tuyet
+  12: CloseUp Xanh
+  13: Coca
+  14: Colgate Than
+  15: Dasani
+  16: dove
+  17: enchanter
+  18: h_s
+  19: Hao_hao
+  20: Haohao
+  21: Happy Soya
+  22: Kokomi
+  23: Lavie
+  24: Lays
+  25: LipTon
+  26: Molle
+  27: Namngu
+  28: Nes Rang
+  29: Nestea
+  30: NSPN_Hop
+  31: NSPN_Lon
+  32: Oishi_Cay
+  33: Oishi_phomat
+  34: Olong
+  35: Ong_tho
+  36: Oreo
+  37: Pepsi
+  38: Puri hong
+  39: Puri Trang
+  40: Puri Xanh
+  41: Salt
+  42: Simply
+  43: sio
+  44: Sting
+  45: sunsilk black
+  46: sunsilk pink
+  47: sunsilk yellow
+  48: TayNinh_blue
+  49: TayNinh_green
+  50: Tuong
+  51: vim black
+  52: vim blue
+  53: Xylitol_blue
+  54: Xylitol_BTS
+  55: Xylitol_green
+
+
+
